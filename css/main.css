@@ -99,6 +99,13 @@ body {
       flex-direction: column;
   }
 
+  #description {
+      font-size: 15px;
+      color: #a9c52f;
+      width: 20vw;
+      line-height: 1.5rem;
+}    
+
   #stanley-logo {
       width: 5vw;
   }
